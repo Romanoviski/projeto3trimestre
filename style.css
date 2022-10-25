@@ -1,0 +1,64 @@
+body{
+
+background-color:lightpink
+
+}
+
+.wrapper{
+
+height: 420px;
+width: 654px;
+margin: 50px;
+border-radius: 7px 7px 7px 7px;
+-webkit-box-shadow: 0px 14px 32px 0px rgba(o,o,o,o,15);
+-moz-box-shadow:0px 14px 32px 0px rgba (0,0,0,0,15);
+box-shadow: opx 14px 32px 0px rgba (0,0,0,0,15);
+
+}
+
+#style {
+float: left;
+height: 420px;
+width:327px;
+}
+
+.pdruto-info{
+float: left; 
+height:420px;
+width: 327;
+
+}
+.produto-texto h1 {
+
+margin: 0 0 0 38px;
+padding-top: 52px;
+font-size: 34px;
+color: lightpink;
+}
+.poduto-texto h1,
+.precobotao p{
+
+    font-family: 'bentham'serif ;
+}
+.produto-texto h2{
+
+
+
+    margin: 0 0 60px;
+    font-size: 30px;
+    font-family: 'plafair displsay' serif;
+    color:black #8d8d8d;
+    line-height:1.7em;
+    font-size: 15px;
+    font-weight: lighter;
+    overflow: hidden;
+
+}
+.precobotao{height: :103;
+width: 327;
+margin-top:17px; 
+
+
+
+
+}
